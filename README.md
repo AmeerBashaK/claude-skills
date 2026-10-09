@@ -1,8 +1,9 @@
-# Claude Skills: Documentary & Motion Design
+# Claude Skills: Documentary, Motion & Graphic Design
 
-A set of [Claude](https://claude.ai) Agent Skills for planning, designing and animating
-presenter-led explainer documentaries in the Vox / Aevy TV tradition.
+A set of [Claude](https://claude.ai) Agent Skills for planning, designing and animating presenter-led
+explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design fundamentals behind them.
 
+## Documentary and motion
 | Skill | What it does |
 |---|---|
 | [`explainer-documentary`](skills/explainer-documentary/SKILL.md) | Format, cold opens, story structure, writing voice and a scene-by-scene plan |
@@ -10,8 +11,15 @@ presenter-led explainer documentaries in the Vox / Aevy TV tradition.
 | [`vox-after-effects-recipes`](skills/vox-after-effects-recipes/SKILL.md) | Exact After Effects settings and expressions for Vox-style motion, camera rigs, transitions, finishing |
 | [`cinematography-for-ai`](skills/cinematography-for-ai/SKILL.md) | Camera moves and their intent, composition, lenses, and prompts for AI video tools |
 
-The skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
-**motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai).
+## Graphic design fundamentals
+| Skill | What it does |
+|---|---|
+| [`design-principles`](skills/design-principles/SKILL.md) | C.R.A.P., hierarchy, white space, balance, colour, UI/UX, Laws of UX, process and a good-vs-bad critique checklist |
+| [`typography`](skills/typography/SKILL.md) | Typeface choice, pairing, sizes, leading, line length, kerning, type systems, common faults, logos and lettering |
+| [`layout-composition`](skills/layout-composition/SKILL.md) | Eye flow, grid types and when to use them, leverage points, rhythm, friction, the LIFT check |
+
+The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
+**motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
 
 ## Install
 
@@ -30,5 +38,7 @@ upload it in Customize → Skills.
 
 Distilled from studying public tutorials and documentaries, including createdaley's After Effects
 tutorials, Mapal, Nijat Ibrahimli, StudioBinder's Shot List series, Dan Kieft's AI camera prompts,
-a Claude + Higgsfield Vox tutorial by Joseph | Video Editing, and Aevy TV documentaries. The skills
-contain original summaries and techniques, not copies of the source material.
+a Claude + Higgsfield Vox tutorial by Joseph | Video Editing, Aevy TV documentaries, The Futur (Chris Do,
+Matthew Encina, Gemma O'Brien), Satori Graphics, Jesse Showalter, Kole Jain, Juxtopposed, Envato Tuts+,
+DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The skills contain original summaries
+and techniques, not copies of the source material.
