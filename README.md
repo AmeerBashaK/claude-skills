@@ -1,4 +1,4 @@
-﻿# Claude Skills: Documentary & Motion Design
+# Claude Skills: Documentary & Motion Design
 
 A set of [Claude](https://claude.ai) Agent Skills for planning, designing and animating
 presenter-led explainer documentaries in the Vox / Aevy TV tradition.
@@ -10,8 +10,8 @@ presenter-led explainer documentaries in the Vox / Aevy TV tradition.
 | [`vox-after-effects-recipes`](skills/vox-after-effects-recipes/SKILL.md) | Exact After Effects settings and expressions for Vox-style motion, camera rigs, transitions, finishing |
 | [`cinematography-for-ai`](skills/cinematography-for-ai/SKILL.md) | Camera moves and their intent, composition, lenses, and prompts for AI video tools |
 
-The skills hand off to each other: **plan** (explainer-documentary) â†’ **look** (vox-collage-design) â†’
-**motion** (vox-after-effects-recipes) â†’ **shots** (cinematography-for-ai).
+The skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
+**motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai).
 
 ## Install
 
@@ -24,7 +24,7 @@ cp -r claude-skills/skills/* ~/.claude/skills/
 ```
 
 **Claude.ai / Claude desktop:** zip a skill folder (the zip must contain `<skill-name>/SKILL.md`) and
-upload it in Customize â†’ Skills.
+upload it in Customize → Skills.
 
 ## Sources
 
