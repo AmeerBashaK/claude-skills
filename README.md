@@ -42,3 +42,7 @@ a Claude + Higgsfield Vox tutorial by Joseph | Video Editing, Aevy TV documentar
 Matthew Encina, Gemma O'Brien), Satori Graphics, Jesse Showalter, Kole Jain, Juxtopposed, Envato Tuts+,
 DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The skills contain original summaries
 and techniques, not copies of the source material.
+
+## License
+
+Dual-licensed under [MIT](LICENSE-MIT) or [GPL-3.0](LICENSE-GPL), at your option.
