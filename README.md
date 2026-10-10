@@ -43,6 +43,18 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`low-poly-motion`](skills/low-poly-motion/SKILL.md) | Low poly: flat-shaded facets, consistent density, bold silhouettes, 2D triangulation; facet-flicker turns, vertex waves, shatter and assemble, morphs, PS1 variant; Blender, After Effects, Python, Three.js and Higgsfield recipes |
 | [`line-art-motion`](skills/line-art-motion/SKILL.md) | Line art: monoline, variable weight, continuous line, hand-drawn boil, blueprint, offset fills; draw-ons in drawing order, pen tips, one-line stories, tapers, morphs; After Effects, Illustrator, SVG/GSAP and Higgsfield recipes |
 
+### Preview loops
+
+Each style skill ships a 6-second looping example in `assets/preview.mp4` (made in After Effects or Blender). Click a frame to play it.
+
+| | | | |
+|---|---|---|---|
+| [<img src="skills/swiss-style-motion/assets/preview.jpg" width="260" alt="Swiss">](skills/swiss-style-motion/assets/preview.mp4)<br>**Swiss** | [<img src="skills/pop-art-motion/assets/preview.jpg" width="260" alt="Pop Art">](skills/pop-art-motion/assets/preview.mp4)<br>**Pop Art** | [<img src="skills/flat-2d-motion/assets/preview.jpg" width="260" alt="Flat 2D">](skills/flat-2d-motion/assets/preview.mp4)<br>**Flat 2D** | [<img src="skills/clay-3d-motion/assets/preview.jpg" width="260" alt="Clay 3D">](skills/clay-3d-motion/assets/preview.mp4)<br>**Clay 3D** |
+| [<img src="skills/glassmorphism-motion/assets/preview.jpg" width="260" alt="Glassmorphism">](skills/glassmorphism-motion/assets/preview.mp4)<br>**Glassmorphism** | [<img src="skills/y2k-chrome-motion/assets/preview.jpg" width="260" alt="Y2K Chrome">](skills/y2k-chrome-motion/assets/preview.mp4)<br>**Y2K Chrome** | [<img src="skills/synthwave-motion/assets/preview.jpg" width="260" alt="Synthwave">](skills/synthwave-motion/assets/preview.mp4)<br>**Synthwave** | [<img src="skills/risograph-motion/assets/preview.jpg" width="260" alt="Risograph">](skills/risograph-motion/assets/preview.mp4)<br>**Risograph** |
+| [<img src="skills/particle-motion/assets/preview.jpg" width="260" alt="Particle">](skills/particle-motion/assets/preview.mp4)<br>**Particle** | [<img src="skills/neo-brutalism-motion/assets/preview.jpg" width="260" alt="Neo-Brutalism">](skills/neo-brutalism-motion/assets/preview.mp4)<br>**Neo-Brutalism** | [<img src="skills/bauhaus-motion/assets/preview.jpg" width="260" alt="Bauhaus">](skills/bauhaus-motion/assets/preview.mp4)<br>**Bauhaus** | [<img src="skills/vaporwave-motion/assets/preview.jpg" width="260" alt="Vaporwave">](skills/vaporwave-motion/assets/preview.mp4)<br>**Vaporwave** |
+| [<img src="skills/pixel-art-motion/assets/preview.jpg" width="260" alt="Pixel Art">](skills/pixel-art-motion/assets/preview.mp4)<br>**Pixel Art** | [<img src="skills/isometric-motion/assets/preview.jpg" width="260" alt="Isometric">](skills/isometric-motion/assets/preview.mp4)<br>**Isometric** | [<img src="skills/low-poly-motion/assets/preview.jpg" width="260" alt="Low Poly">](skills/low-poly-motion/assets/preview.mp4)<br>**Low Poly** | [<img src="skills/line-art-motion/assets/preview.jpg" width="260" alt="Line Art">](skills/line-art-motion/assets/preview.mp4)<br>**Line Art** |
+
+
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
 
