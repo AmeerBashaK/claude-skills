@@ -18,6 +18,11 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`typography`](skills/typography/SKILL.md) | Typeface choice, pairing, sizes, leading, line length, kerning, type systems, common faults, logos and lettering |
 | [`layout-composition`](skills/layout-composition/SKILL.md) | Eye flow, grid types and when to use them, leverage points, rhythm, friction, the LIFT check |
 
+## Motion styles
+| Skill | What it does |
+|---|---|
+| [`swiss-style-motion`](skills/swiss-style-motion/SKILL.md) | Swiss / International Typographic Style in motion: grid-locked movement, beat-locked timing, snap easing, signature moves, After Effects and GSAP recipes |
+
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
 
@@ -40,7 +45,8 @@ Distilled from studying public tutorials and documentaries, including createdale
 tutorials, Mapal, Nijat Ibrahimli, StudioBinder's Shot List series, Dan Kieft's AI camera prompts,
 a Claude + Higgsfield Vox tutorial by Joseph | Video Editing, Aevy TV documentaries, The Futur (Chris Do,
 Matthew Encina, Gemma O'Brien), Satori Graphics, Jesse Showalter, Kole Jain, Juxtopposed, Envato Tuts+,
-DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The skills contain original summaries
+DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The Swiss style skill draws on the work
+of Josef Müller-Brockmann, Armin Hofmann, Emil Ruder and Mat Voyce, and on design-history write-ups. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
