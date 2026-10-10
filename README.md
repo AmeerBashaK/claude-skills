@@ -18,6 +18,11 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`typography`](skills/typography/SKILL.md) | Typeface choice, pairing, sizes, leading, line length, kerning, type systems, common faults, logos and lettering |
 | [`layout-composition`](skills/layout-composition/SKILL.md) | Eye flow, grid types and when to use them, leverage points, rhythm, friction, the LIFT check |
 
+## Web and 3D web
+| Skill | What it does |
+|---|---|
+| [`web-3d-design`](skills/web-3d-design/SKILL.md) | Websites and 3D sites end to end: web design principles, UX structure, conversion, design systems and tokens, Tailwind v4, Three.js and React Three Fiber (model workflow, lighting, interaction patterns), GSAP scroll storytelling, performance, accessibility, client process and a starter scene |
+
 ## Motion styles
 | Skill | What it does |
 |---|---|
@@ -76,7 +81,9 @@ Vaporwave, the Mutual Images Journal, Grinnell's subculture notes and AEJuice. T
 Adafruit, Pixel Joint, Tiny Warrior Games, Aseprite docs and Adobe community notes on nearest-neighbour scaling. The isometric skill draws on IBM's isometric style,
 Slynyrd, Krita docs, Loop, Creative Bloq and Blender isometric camera guides. The low poly skill draws on Bugnet,
 Game Developer, BlenderNation, Sketchfab, Mattrunks and Triangler. The line art skill draws on IBM's line style,
-Toons Mag, Trim Paths tutorials (Noble Desktop, Pixelbakery, Red Shark) and GSAP DrawSVG. The skills contain original summaries
+Toons Mag, Trim Paths tutorials (Noble Desktop, Pixelbakery, Red Shark) and GSAP DrawSVG. The web and 3D web skill draws on
+The Futur, Self-Made Web Designer, Satori Graphics, Flux Academy, JavaScript Mastery's Three.js and Tailwind courses, Fireship,
+UI Collective's design systems course and Sergei Chyrkov's Claude Design tutorial. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
