@@ -22,6 +22,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | Skill | What it does |
 |---|---|
 | [`swiss-style-motion`](skills/swiss-style-motion/SKILL.md) | Swiss / International Typographic Style in motion: grid-locked movement, beat-locked timing, snap easing, signature moves, After Effects and GSAP recipes |
+| [`pop-art-motion`](skills/pop-art-motion/SKILL.md) | Pop art in motion: Ben-Day dots, halftone, thick outlines, Warhol plates and grids, comic SFX, overshoot pops, impact frames, dot wipes, After Effects and GSAP recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -46,7 +47,8 @@ tutorials, Mapal, Nijat Ibrahimli, StudioBinder's Shot List series, Dan Kieft's 
 a Claude + Higgsfield Vox tutorial by Joseph | Video Editing, Aevy TV documentaries, The Futur (Chris Do,
 Matthew Encina, Gemma O'Brien), Satori Graphics, Jesse Showalter, Kole Jain, Juxtopposed, Envato Tuts+,
 DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The Swiss style skill draws on the work
-of Josef Müller-Brockmann, Armin Hofmann, Emil Ruder and Mat Voyce, and on design-history write-ups. The skills contain original summaries
+of Josef Müller-Brockmann, Armin Hofmann, Emil Ruder and Mat Voyce, and on design-history write-ups. The pop art skill draws on the work of Roy Lichtenstein,
+Andy Warhol, Richard Hamilton and their peers, via museum and school education material. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
