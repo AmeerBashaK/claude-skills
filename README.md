@@ -36,6 +36,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`pixel-art-motion`](skills/pixel-art-motion/SKILL.md) | Pixel art: native-res grids with integer scaling, limited palettes, clean lines, dithering; frame-by-frame timing by holds, whole-pixel motion, sub-pixel animation, palette cycling, hit flashes; Aseprite, After Effects, Blender, canvas, Python cleanup and Higgsfield recipes |
 | [`isometric-motion`](skills/isometric-motion/SKILL.md) | Isometric: true iso vs 2:1, grids, three-tone shading, dioramas, exploded views; axis-only motion, drop-in builds, extrusion, flow lines, ortho camera; After Effects, Blender, Illustrator, CSS/GSAP and Higgsfield recipes |
 | [`low-poly-motion`](skills/low-poly-motion/SKILL.md) | Low poly: flat-shaded facets, consistent density, bold silhouettes, 2D triangulation; facet-flicker turns, vertex waves, shatter and assemble, morphs, PS1 variant; Blender, After Effects, Python, Three.js and Higgsfield recipes |
+| [`line-art-motion`](skills/line-art-motion/SKILL.md) | Line art: monoline, variable weight, continuous line, hand-drawn boil, blueprint, offset fills; draw-ons in drawing order, pen tips, one-line stories, tapers, morphs; After Effects, Illustrator, SVG/GSAP and Higgsfield recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -74,7 +75,8 @@ the Getty and the work of Bayer, Kandinsky, Albers, Moholy-Nagy and Schlemmer. T
 Vaporwave, the Mutual Images Journal, Grinnell's subculture notes and AEJuice. The pixel art skill draws on
 Adafruit, Pixel Joint, Tiny Warrior Games, Aseprite docs and Adobe community notes on nearest-neighbour scaling. The isometric skill draws on IBM's isometric style,
 Slynyrd, Krita docs, Loop, Creative Bloq and Blender isometric camera guides. The low poly skill draws on Bugnet,
-Game Developer, BlenderNation, Sketchfab, Mattrunks and Triangler. The skills contain original summaries
+Game Developer, BlenderNation, Sketchfab, Mattrunks and Triangler. The line art skill draws on IBM's line style,
+Toons Mag, Trim Paths tutorials (Noble Desktop, Pixelbakery, Red Shark) and GSAP DrawSVG. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
