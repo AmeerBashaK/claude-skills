@@ -30,6 +30,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`synthwave-motion`](skills/synthwave-motion/SKILL.md) | Synthwave / Outrun: neon grids, segmented sun, wireframe mountains, 80s chrome and neon type, VHS; endless drive, beat pulses, neon ignition, title slams; After Effects, Blender, CSS/GSAP and Higgsfield recipes |
 | [`risograph-motion`](skills/risograph-motion/SKILL.md) | Risograph: 2-3 translucent spot inks, overprint, misregistration, grain and paper; stepped timing, registration drift, ink-pass reveals, paper-feed transitions; After Effects, Photoshop/Illustrator, CSS/GSAP and Higgsfield recipes |
 | [`particle-motion`](skills/particle-motion/SKILL.md) | Particles: dust, sparks, confetti, plexus, flow fields, logo formation, disintegration; design rules (hierarchy, density, size tiers, lifecycle) and force-driven motion; After Effects, Blender Geometry Nodes, Canvas/Three.js and Higgsfield recipes |
+| [`neo-brutalism-motion`](skills/neo-brutalism-motion/SKILL.md) | Neo-brutalism: thick outlines, hard zero-blur shadows, flat clashing colour, big quirky type; press-into-shadow, slams, sticker slaps, marquees, cursor clicks; After Effects, CSS/GSAP and Higgsfield recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -62,7 +63,8 @@ of Apple's Liquid Glass design language. The Y2K chrome skill draws on Y2K Futur
 Made Good Designs), Motion Array and BlenderNation. The synthwave skill draws on PremiumBeat, RetroShaper,
 Signalnoise and synthwave genre history. The risograph skill draws on Moniker Press, the SAIC Service Bureau and
 University riso guides, and riso-simulation write-ups. The particle skill draws on tutvid, BlenderNation's
-Simulation Nodes series, Unity and Vizrt docs, Reynolds' boids and curl-noise literature. The skills contain original summaries
+Simulation Nodes series, Unity and Vizrt docs, Reynolds' boids and curl-noise literature. The neo-brutalism skill draws on SVGator, Made Good Designs, the
+Design Style Guide, Mailchimp and neubrutalism UI component libraries. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
