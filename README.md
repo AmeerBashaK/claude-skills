@@ -25,6 +25,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`pop-art-motion`](skills/pop-art-motion/SKILL.md) | Pop art in motion: Ben-Day dots, halftone, thick outlines, Warhol plates and grids, comic SFX, overshoot pops, impact frames, dot wipes, After Effects and GSAP recipes |
 | [`flat-2d-motion`](skills/flat-2d-motion/SKILL.md) | Flat 2D illustration and animation: geometric construction, 60-30-10 palettes, cel shading, easing, overlap, morphs, draw-ons, idle loops, parallax, Duik rigging, After Effects and GSAP recipes |
 | [`clay-3d-motion`](skills/clay-3d-motion/SKILL.md) | Clay 3D: plasticine forms and materials, miniature lighting, smooth claymorphism and stop-motion claymation (on twos, boiling surfaces), Blender, After Effects and Higgsfield recipes |
+| [`glassmorphism-motion`](skills/glassmorphism-motion/SKILL.md) | Glassmorphism: frosted panels, Apple-style Liquid Glass (refraction, specular, gooey merges) and 3D glass; contrast rules, living backgrounds, parallax, light sweeps; After Effects, CSS/GSAP and Blender recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -52,7 +53,8 @@ DesignSpo, Kittl, GraphiqVibe and the Laws of UX by Jon Yablonski. The Swiss sty
 of Josef Müller-Brockmann, Armin Hofmann, Emil Ruder and Mat Voyce, and on design-history write-ups. The pop art skill draws on the work of Roy Lichtenstein,
 Andy Warhol, Richard Hamilton and their peers, via museum and school education material. The flat 2D skill draws on the IBM Design Language flat illustration
 guidelines, Linearity, Icons8 and RxLaboratory's Duik. The clay 3D skill draws on BlenderNation and Blender Bazaar
-clay tutorials, Kin Klei, Marmoset and classic claymation (Aardman, Laika, Will Vinton). The skills contain original summaries
+clay tutorials, Kin Klei, Marmoset and classic claymation (Aardman, Laika, Will Vinton). The glassmorphism skill draws on IxDF, Axess Lab and coverage
+of Apple's Liquid Glass design language. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
