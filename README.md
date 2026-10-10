@@ -26,6 +26,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`flat-2d-motion`](skills/flat-2d-motion/SKILL.md) | Flat 2D illustration and animation: geometric construction, 60-30-10 palettes, cel shading, easing, overlap, morphs, draw-ons, idle loops, parallax, Duik rigging, After Effects and GSAP recipes |
 | [`clay-3d-motion`](skills/clay-3d-motion/SKILL.md) | Clay 3D: plasticine forms and materials, miniature lighting, smooth claymorphism and stop-motion claymation (on twos, boiling surfaces), Blender, After Effects and Higgsfield recipes |
 | [`glassmorphism-motion`](skills/glassmorphism-motion/SKILL.md) | Glassmorphism: frosted panels, Apple-style Liquid Glass (refraction, specular, gooey merges) and 3D glass; contrast rules, living backgrounds, parallax, light sweeps; After Effects, CSS/GSAP and Blender recipes |
+| [`y2k-chrome-motion`](skills/y2k-chrome-motion/SKILL.md) | Y2K chrome: liquid metal type, iridescent and holo gradients, bubble forms, sparkles and flares; sheen sweeps, mercury morphs, chrome spins, glitch cuts; After Effects, Blender, CSS/GSAP and Higgsfield recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -54,7 +55,8 @@ of Josef Müller-Brockmann, Armin Hofmann, Emil Ruder and Mat Voyce, and on desi
 Andy Warhol, Richard Hamilton and their peers, via museum and school education material. The flat 2D skill draws on the IBM Design Language flat illustration
 guidelines, Linearity, Icons8 and RxLaboratory's Duik. The clay 3D skill draws on BlenderNation and Blender Bazaar
 clay tutorials, Kin Klei, Marmoset and classic claymation (Aardman, Laika, Will Vinton). The glassmorphism skill draws on IxDF, Axess Lab and coverage
-of Apple's Liquid Glass design language. The skills contain original summaries
+of Apple's Liquid Glass design language. The Y2K chrome skill draws on Y2K Futurism write-ups (Webflow, Grapheine,
+Made Good Designs), Motion Array and BlenderNation. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
