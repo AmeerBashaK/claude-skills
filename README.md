@@ -32,6 +32,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`particle-motion`](skills/particle-motion/SKILL.md) | Particles: dust, sparks, confetti, plexus, flow fields, logo formation, disintegration; design rules (hierarchy, density, size tiers, lifecycle) and force-driven motion; After Effects, Blender Geometry Nodes, Canvas/Three.js and Higgsfield recipes |
 | [`neo-brutalism-motion`](skills/neo-brutalism-motion/SKILL.md) | Neo-brutalism: thick outlines, hard zero-blur shadows, flat clashing colour, big quirky type; press-into-shadow, slams, sticker slaps, marquees, cursor clicks; After Effects, CSS/GSAP and Higgsfield recipes |
 | [`bauhaus-motion`](skills/bauhaus-motion/SKILL.md) | Bauhaus: primaries and black, circle/square/triangle, asymmetric diagonals, lowercase geometric type; shapes as actors, compass construction, tile cascades, Albers colour shifts; After Effects, CSS/GSAP and Higgsfield recipes |
+| [`vaporwave-motion`](skills/vaporwave-motion/SKILL.md) | Vaporwave: pastel neon, statues, Windows 95 UI, Japanese/fullwidth text, checker floors, lo-fi VHS; slowed dreamy loops, statue spins, error cascades, echo trails; After Effects, Blender, CSS/GSAP and Higgsfield recipes |
 
 The documentary skills hand off to each other: **plan** (explainer-documentary) → **look** (vox-collage-design) →
 **motion** (vox-after-effects-recipes) → **shots** (cinematography-for-ai). The design skills apply to all of them.
@@ -66,7 +67,8 @@ Signalnoise and synthwave genre history. The risograph skill draws on Moniker Pr
 University riso guides, and riso-simulation write-ups. The particle skill draws on tutvid, BlenderNation's
 Simulation Nodes series, Unity and Vizrt docs, Reynolds' boids and curl-noise literature. The neo-brutalism skill draws on SVGator, Made Good Designs, the
 Design Style Guide, Mailchimp and neubrutalism UI component libraries. The Bauhaus skill draws on The Art Story, the V&A, Letterform Archive,
-the Getty and the work of Bayer, Kandinsky, Albers, Moholy-Nagy and Schlemmer. The skills contain original summaries
+the Getty and the work of Bayer, Kandinsky, Albers, Moholy-Nagy and Schlemmer. The vaporwave skill draws on USC's Understanding
+Vaporwave, the Mutual Images Journal, Grinnell's subculture notes and AEJuice. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License
