@@ -87,3 +87,16 @@ Rules:
 Then hand off: look -> vox-collage-design; motion -> vox-after-effects-recipes; live-action and
 AI B-roll shots -> cinematography-for-ai; assembly -> premiere-pro connector (VO on A1, scenes on V1,
 music bed on A2 ducked under voice, paper/pen SFX on A3).
+
+## 5. Short-form explainer and tutorial reels
+
+For 35-95 s vertical pieces, the study of 30 reels (reel-craft/references) gives a tighter shell than the long-form one above.
+
+- **Talking head plus screen recording.** Open with an illustrated intro world (12 s in the one reel that did this; still start motion by 0.4 s and land the hook line by about 2 s), then the speaker in a locked medium close-up, then the screen recording in the top two thirds with the speaker in the bottom third. Middle steps can be screen and illustrated plates only, changing every 1.5-3 s. Return the speaker for the call to action. Keep the face clear of captions (formats-and-recipes.md, format 5).
+- **Voice-driven caption clock.** Captions run 1-3 words, 0.2-0.35 s per word, one emphasis device on one word per beat (italic serif swap or one accent colour). Cut on the first syllable of the next phrase, not the breath; put big moves in the 0.3-0.5 s gaps (kinetic-type-and-captions.md, sections 2, 4, 8).
+- **Metaphor per sentence.** One object or picture per sentence, 2-4 s each, the old one leaving as the new one arrives. Hold one full-screen word card for the pivot at about half runtime (pacing-and-timing.md; formats-and-recipes.md, format 11).
+- **Chat-story device.** Message bubbles as scenes, with colour carrying meaning: green for sent or success, red for loss, magenta for emphasis. Escalate numbers in three steps, each with a glow flash (visual-design.md, section 3; kinetic-type-and-captions.md, section 6).
+- **Evidence board.** Keep it to the sticky-note and red-string set piece from section 1; the reel study gave no separate timing for it.
+- **Comment-keyword call to action.** Show the offer before asking. Build the keyword in accent italic serif in quotes over about 2 s while the presenter points at the comment field, then hold 2 s (formats-and-recipes.md, format 10).
+
+See also: reel-craft/references/formats-and-recipes.md

@@ -10,6 +10,7 @@ explainer documentaries in the Vox / Aevy TV tradition, plus the graphic design 
 | [`vox-collage-design`](skills/vox-collage-design/SKILL.md) | Design system: paper textures, cutouts, colour, typography, hand-drawn marks, scene layouts |
 | [`vox-after-effects-recipes`](skills/vox-after-effects-recipes/SKILL.md) | Exact After Effects settings and expressions for Vox-style motion, camera rigs, transitions, finishing |
 | [`cinematography-for-ai`](skills/cinematography-for-ai/SKILL.md) | Camera moves and their intent, composition, lenses, and prompts for AI video tools |
+| [`reel-craft`](skills/reel-craft/SKILL.md) | Instagram reel and short-form motion craft from a frame-by-frame and audio study of 30 reference reels: visual design, pacing and the hook, camera and lens, 16 transition families, kinetic type and captions, sound design and loudness, 12 format recipes, a case-study index, and the scripts to repeat the study |
 
 ## Graphic design fundamentals
 | Skill | What it does |
@@ -95,7 +96,7 @@ Slynyrd, Krita docs, Loop, Creative Bloq and Blender isometric camera guides. Th
 Game Developer, BlenderNation, Sketchfab, Mattrunks and Triangler. The line art skill draws on IBM's line style,
 Toons Mag, Trim Paths tutorials (Noble Desktop, Pixelbakery, Red Shark) and GSAP DrawSVG. The web and 3D web skill draws on
 The Futur, Self-Made Web Designer, Satori Graphics, Flux Academy, JavaScript Mastery's Three.js and Tailwind courses, Fireship,
-UI Collective's design systems course and Sergei Chyrkov's Claude Design tutorial. The skills contain original summaries
+UI Collective's design systems course and Sergei Chyrkov's Claude Design tutorial. The reel craft skill draws on a frame-by-frame and audio study of 30 public Instagram motion-design reels (every frame and audio track measured, contact sheets and spectrograms read), summarised without names, captions or lyrics. The skills contain original summaries
 and techniques, not copies of the source material.
 
 ## License

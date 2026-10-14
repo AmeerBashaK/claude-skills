@@ -73,3 +73,23 @@ Size, line length and leading move together (triadic relationship): change one, 
 - Large numbers: tighten tracking. Small captions: open tracking, mono or small caps, keep away from the
   platform's caption area.
 - Check readability on a phone at real size, on light and dark footage (add a soft shadow or a backing shape).
+
+## Kinetic type and captions in reels
+Extends "Video and documentary use" for short-form reels, from a 30-reel study. Frames are at 30 fps.
+- **Type classes:** two or three per reel. Heavy grotesque for the hero word, condensed or italic serif for
+  sub-lines and numerals, mono or pixel caps for captions and HUD labels, thin light sans for quiet product
+  lines, rounded UI sans for stickers and chat.
+- **Size pairing:** one huge word with tiny connectors; escalate size word by word inside a line.
+- **Cadence:** one word per 6 to 10 frames (median about 0.27 s). Hold a finished line 9 frames minimum, 15 for
+  a seven-word headline. In loud type reels the first word is on screen by frame 12.
+- **Build styles:** word by word with a 3 to 4 frame fade or blur-in; typed with a caret (14 to 32 characters
+  per second in UI fields, 3 to 4 frames per letter in headlines); letter by letter at 2 to 3 frames. Exit by
+  the build device, or morph into the next object.
+- **Emphasis:** one device on one word per beat: accent colour (one hue per reel), size jump, underline draw
+  over 10 to 12 frames, highlighter fill, or an italic serif swap inside mono captions.
+- **Captions:** speech-synced, 1 to 3 words (one reel used uppercase letter-spaced mono), centred below
+  mid-frame in 9:16 (measured 49 to 57 percent of height) and clear of the lowest 30 percent as a precaution. A phone-shot screen gets a fixed caption outside the shot. Never cover a face; on busy
+  footage use a solid bar or pill. Platform safe areas were not measured, so check current guidance.
+- **Numbers:** counters ease out over 30 to 42 frames with vertical blur; use tabular figures.
+
+See also: reel-craft/references/kinetic-type-and-captions.md

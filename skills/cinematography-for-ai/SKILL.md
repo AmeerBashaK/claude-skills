@@ -69,3 +69,29 @@ From StudioBinder Shot List Ep 6 (camera movement), Ep 7 (lenses), Ep 11 (compos
 - B-roll: low-key, practical light, macro details, slider and push-past moves.
 - Graphics (After Effects/Blender): treat the virtual camera like a dolly/truck/arc through 3D cutout
   layers; 35mm camera; Earth zoom-out for maps; push past foreground collage pieces for depth.
+
+## Virtual camera and screen-shot looks (reel study)
+Values are picture estimates from a 30-reel study, not metadata.
+- One camera strategy per piece: none on flat or kinetic-type work (move the objects), one move only, or
+  constant motion with a whip at each cut.
+- Slow push on a held frame: 2-12% over 0.5-2 s (about 4% per second). Crash zoom: about 3x in 3-7 frames,
+  heavy blur, land on a flat field. Whip: 4-6 frames, blurred, up to 20 degrees of tilt.
+- Orbit about 19 degrees per second; card tilt 5-10 degrees, then settle flat. Type sits behind a 3D hero.
+
+**Phone shot of a screen**
+- One continuous handheld take, 10-27 s, no cuts; the screen's animation is the edit.
+- Screen at full frame width, 35-41% of height, caption above, a foreground tablet or keyboard in the bottom
+  third. About 26mm phone lens at desk height.
+- Slow drift of 12-15 px, one 0.3 s refocus onto the foreground device. Dim room, white LED bar above, coloured
+  glow at the base, the screen as key light spilling onto the wall.
+- "handheld phone video of a bright monitor in a dim room, 26mm, slow drift, one refocus to the keyboard, LED bar, violet glow"
+
+**Macro and talking head**
+- Macro payoff: 85-100mm look, surface fills the frame, one razor focus plane on the tip, push about 2% per
+  frame on the press.
+- Talking head: locked medium close-up, 50-85mm, f/2 look, side key, soft practicals out of focus behind.
+  Emphasis is a lean toward the lens, not a zoom.
+- Wide low hero: 24-35mm look, subject centred, camera locked, movement added in post.
+- Soften the first frames after a cut; recover in about 8 frames (hype) or 20 (calm).
+
+See also: reel-craft/references/camera-and-lens.md
